@@ -6,7 +6,7 @@
 
     <!-- CSRF Token -->
 
-    <title>{{ 'Life For Partner' }}</title>
+    <title>{{ 'Multiple Category User Authentication and Data Store System' }}</title>
 
     <!-- Scripts -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -27,7 +27,7 @@
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    {{ 'LIFE FOR PARTNER' }}
+                    {{ 'Multiple Category User Registration and Data Store System' }}
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
