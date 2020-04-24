@@ -6,7 +6,7 @@
         <div class="col-100">
             <div class="content">
                 <h2 class="review">Please Wait Your Account Under Review</h2>
-                <p class="note">Note: if you didn't click on allow we will be unable to active your account.</p>
+                <p class="note">Thank You For Registration</p>
             </div>
         </div>
     </div>
